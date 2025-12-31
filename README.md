@@ -59,7 +59,7 @@ CareerIntent 是一个基于 AI 原生"意图驱动型"的职业发展系统，�
 ## 发布信息
 
 ### 项目文件路径
-- 主文件：`/Users/tianyong/Documents/works/workspace/hp/公司文档/AI调研/AI即时软件/UI/index.html`
+- 主文件：`UI/index.html`
 - 相关资源：同一目录下的静态资源
 
 ### 发布 URL
